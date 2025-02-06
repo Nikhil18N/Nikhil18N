@@ -10,4 +10,4 @@
 - 📫 **Email:** nikhilnakka52@gmail.com
 
 ## 📊 GitHub Stats:
-![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikhil18N&show_icons=true&theme=radical)
