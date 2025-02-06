@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Nikhil Nakka! 👋
 
-<!--
-**Nikhil18N/Nikhil18N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 **B.Tech CSE Student at SR University, Warangal**  
+🔹 Passionate about **Artificial Intelligence & Machine Learning**  
+🔹 Skilled in **Python, Java, SQL, Data Science, Web Development**  
 
-Here are some ideas to get you started:
+## 🔗 Connect with Me:
+- 🌐 [Portfolio](https://nikhil-nakka-portfolio.netlify.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nikhil-nakka-ba8153295)
+- 📫 **Email:** nikhilnakka52@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats:
+![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
