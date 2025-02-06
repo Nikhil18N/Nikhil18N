@@ -13,7 +13,8 @@
 ![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikhil18N&show_icons=true&theme=radical)
 
 ## 🔥 Streak Stats:
-![GitHub Streak](https://streak-stats.demolab.com/?user=Nikhil18N&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nikhil18N&theme=radical)
+
 
 ## 🚀 Top Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil18N&layout=compact&theme=radical)
