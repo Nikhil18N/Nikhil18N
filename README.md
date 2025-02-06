@@ -12,10 +12,12 @@
 ## 📊 GitHub Stats:
 ![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikhil18N&show_icons=true&theme=radical)
 
-## 🔥 Streak Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nikhil18N&theme=default)
-
-
 ## 🚀 Top Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil18N&layout=compact&theme=radical)
+
+![Python](https://img.shields.io/badge/Python-3.8-blue)
+![Java](https://img.shields.io/badge/Java-Intermediate-orange)
+![SQL](https://img.shields.io/badge/SQL-Expert-green)
+![Machine Learning](https://img.shields.io/badge/AI/ML-Active-red)
+
 
