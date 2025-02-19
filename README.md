@@ -15,16 +15,6 @@
 ## 🚀 Top Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil18N&layout=compact&theme=radical)
 
-## HackerRank Badges
-
-## HackerRank Badges
-
-[![Problem Solving](https://img.shields.io/badge/HackerRank-Problem%20Solving-1ba94c?style=flat&logo=hackerrank)](https://www.hackerrank.com/2303A52477)
-[![Python](https://img.shields.io/badge/HackerRank-Python-1ba94c?style=flat&logo=hackerrank)](https://www.hackerrank.com/2303A52477)
-[![SQL](https://img.shields.io/badge/HackerRank-SQL-1ba94c?style=flat&logo=hackerrank)](https://www.hackerrank.com/2303A52477)
-
-
-
 ![Python](https://img.shields.io/badge/Python-3.8-blue)
 ![Java](https://img.shields.io/badge/Java-Intermediate-orange)
 ![SQL](https://img.shields.io/badge/SQL-Expert-green)
