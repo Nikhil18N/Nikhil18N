@@ -17,9 +17,12 @@
 
 ## HackerRank Badges
 
-[![Problem Solving]([https://img.shields.io/badge/HackerRank-Problem%20Solving-1ba94c?style=flat&logo=hackerrank](https://hrcdn.net/fcore/assets/badges/problem-solving-ecaf59a612.svg))](https://www.hackerrank.com/NAKKA NIKHIL)
-[![Python](https://img.shields.io/badge/HackerRank-Python-1ba94c?style=flat&logo=hackerrank)](https://www.hackerrank.com/your_username)
-[![SQL](https://img.shields.io/badge/HackerRank-SQL-1ba94c?style=flat&logo=hackerrank)](https://www.hackerrank.com/your_username)
+## HackerRank Badges
+
+[![Problem Solving](https://img.shields.io/badge/HackerRank-Problem%20Solving-1ba94c?style=flat&logo=hackerrank)](https://www.hackerrank.com/2303A52477)
+[![Python](https://img.shields.io/badge/HackerRank-Python-1ba94c?style=flat&logo=hackerrank)](https://www.hackerrank.com/2303A52477)
+[![SQL](https://img.shields.io/badge/HackerRank-SQL-1ba94c?style=flat&logo=hackerrank)](https://www.hackerrank.com/2303A52477)
+
 
 
 ![Python](https://img.shields.io/badge/Python-3.8-blue)
