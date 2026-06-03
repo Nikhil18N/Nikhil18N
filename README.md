@@ -1,39 +1,135 @@
-# Hi, I'm Nikhil Nakka! 👋
+<div align="center">
 
-🔹 **B.Tech CSE Student at SR University, Warangal**  
-🔹 Passionate about **Artificial Intelligence & Machine Learning**  
-🔹 Skilled in **Python, Java, SQL, Data Science, Web Development**  
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nikhil%20Nakka&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Full-Stack%20Dev&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
-## 🔗 Connect with Me:
-- 🌐 [Portfolio](https://nikhil-nakka-portfolio.netlify.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/nikhil-nakka-ba8153295)
-- 📫 **Email:** nikhilnakka52@gmail.com
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+SR+University%2C+Warangal;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Building+Intelligent+Solutions+%F0%9F%9A%80;Open+to+Collaboration+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
-## 📊 GitHub Stats:
-![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikhil18N&show_icons=true&theme=radical)
+<br/>
 
-## 🚀 Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil18N&layout=compact&theme=radical)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://nikhil-nakka-portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-nakka-ba8153295)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilnakka52@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikhil18N)
 
-![Python](https://img.shields.io/badge/Python-3.8-blue)
-![Java](https://img.shields.io/badge/Java-Intermediate-orange)
-![SQL](https://img.shields.io/badge/SQL-Expert-green)
-![Machine Learning](https://img.shields.io/badge/AI/ML-Active-red)
+</div>
 
-## 🛠 Tech Stack:
+---
+
+## 👨‍💻 About Me
+
+```python
+class Nikhil:
+    name        = "Nikhil Nakka"
+    university  = "SR University, Warangal"
+    degree      = "B.Tech in Computer Science & Engineering"
+    focus       = ["Artificial Intelligence", "Machine Learning", "Data Science"]
+    
+    languages   = ["Python", "Java", "SQL", "HTML/CSS"]
+    interests   = ["AI Research", "Neural Networks", "Web Development", "Open Source"]
+    
+    currently   = "Building AI-powered projects & sharpening ML skills"
+    looking_for = "Internships, Research Collabs, Open Source Contributions"
+    
+    fun_fact    = "I debug code faster than I debug my own decisions 😄"
+```
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 💡 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-brightgreen?style=for-the-badge&logo=tensorflow&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=opencv&logoColor=white)
-![Web Development](https://img.shields.io/badge/Web_Dev-HTML5-blue?style=for-the-badge&logo=html5)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 🚀 Tools & Technologies:
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 🤖 AI / ML / Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
+### 🧰 Tools & Platforms
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
+---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/Nikhil18N">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nikhil18N&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil18N&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</a>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil18N&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nikhil18N&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Nikhil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikhil18N&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🌱 Currently Exploring
+
+- 🧠 Deep Learning architectures (CNNs, Transformers, LSTMs)
+- 📊 Advanced Data Science & Feature Engineering
+- 🌐 Full-Stack Web Development
+- ☁️ Cloud platforms for ML deployment (AWS / GCP)
+
+---
+
+## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+
+I'm always open to interesting conversations, project collaborations, and new opportunities.  
+Whether you want to discuss AI, build something cool, or just say hi — my inbox is open!
+
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge)](https://nikhil-nakka-portfolio.netlify.app/)
+[![Email Me](https://img.shields.io/badge/📫_Email_Me-D14836?style=for-the-badge)](mailto:nikhilnakka52@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Nikhil18N&label=Profile%20Views&color=blueviolet&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" />
+
+*"The goal of AI is not to replace human thinking, but to extend the boundaries of what's possible."*
+
+</div>
