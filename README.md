@@ -119,9 +119,9 @@ React Native • Node.js • Express • Supabase • PostgreSQL • Gemini AI
 
 <div align="center">
   
-![GitHub Streak](https://streak-stats.demolab.com?user=Nikhil18N&theme=github-dark-blue&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikhil18N&show_icons=true&theme=tokyonight)
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhil18N&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil18N&layout=compact&theme=tokyonight)
 
 <br/>
 
