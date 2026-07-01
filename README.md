@@ -1,136 +1,188 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nikhil%20Nakka&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20MERN%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:2563EB,100:3B82F6&height=220&section=header&text=Nikhil%20Nakka&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20|%20Backend%20Developer&descAlignY=58&descSize=18"/>
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%40+SR+University%2C+Warangal;AI+%26+ML+Enthusiast+%F0%9F%A4%96;MERN+Stack+Developer+%F0%9F%92%BB;Building+Intelligent+Solutions+%F0%9F%9A%80;Open+to+Internships+%26+Collaboration+%F0%9F%A4%9D)](https://git.io/typing-svg)
+# 👋 Hi, I'm Nikhil
 
-<br/>
+### Full Stack Developer | MERN Stack Developer | Computer Science Student
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://nikhil-nakka-portfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-nakka-ba8153295)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilnakka52@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikhil18N)
+Building scalable web applications, REST APIs, and modern full-stack solutions.
+
+<p>
+  <a href="https://github.com/Nikhil18N">
+    <img src="https://img.shields.io/github/followers/Nikhil18N?label=Followers&style=for-the-badge" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Nikhil18N&style=for-the-badge" />
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 🚀 About Me
 
-```python
-class Nikhil:
-    name        = "Nikhil Nakka"
-    university  = "SR University, Warangal"
-    degree      = "B.Tech in Computer Science & Engineering"
-    focus       = ["Artificial Intelligence", "Machine Learning", "MERN Stack"]
-    
-    languages   = ["Python", "Java", "JavaScript", "SQL", "HTML/CSS"]
-    interests   = ["AI Research", "Neural Networks", "Full-Stack Dev", "Open Source"]
-    
-    currently   = "Building AI-powered apps & MERN full-stack projects"
-    looking_for = "Internships, Research Collabs, Open Source Contributions"
-    
-    fun_fact    = "I debug code faster than I debug my own decisions 😄"
-```
+🎓 B.Tech Computer Science (AIML) Student at SR University
+
+💻 Full Stack Developer specializing in MERN Stack
+
+⚡ Passionate about Backend Development, APIs, System Design, and Cloud
+
+🌱 Currently learning:
+- Advanced Backend Development
+- System Design
+- AWS Cloud Services
+- Scalable Application Architecture
+
+🎯 Looking for:
+- Software Engineering Internships
+- Full Stack Developer Roles
+- Open Source Contributions
 
 ---
 
-## 🛠️ Tech Stack & Tools
+# 🛠 Tech Stack
 
-### 💡 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## Languages
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🌐 MERN Stack
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+## Frontend
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+## Backend
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 
-### 🤖 AI / ML / Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+## Databases
 
-### 🧰 Tools & Platforms
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## Tools & Cloud
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📊 GitHub Analytics
+# 🚀 Featured Projects
 
-> ⚡ *Stats are powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats). If cards don't load, try refreshing — the shared API occasionally hits rate limits. For a permanent fix, [deploy your own instance](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own).*
+## 👕 ReWear – Community Clothing Exchange Platform
+
+Full-stack MERN application enabling users to exchange clothing items through a community marketplace.
+
+### Features
+- JWT Authentication
+- Role-Based Access Control
+- REST APIs
+- MongoDB Optimization
+- Responsive UI
+- CI/CD Deployment
+
+### Tech Stack
+React • Node.js • Express.js • MongoDB
+
+🔗 Live Demo: https://rewear-communityclothingexchange.vercel.app
+
+---
+
+## 📱 ReceiptFlow – AI Powered Expense Tracker
+
+Cross-platform expense management application powered by AI.
+
+### Features
+- Receipt OCR using Gemini AI
+- Expense Tracking
+- Budget Forecasting
+- Expense Splitting
+- Push Notifications
+- AI Insights
+
+### Tech Stack
+React Native • Node.js • Express • Supabase • PostgreSQL • Gemini AI
+
+---
+
+# 📈 GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/Nikhil18N">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nikhil18N&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil18N&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nikhil18N&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Nikhil18N&theme=tokyonight&hide_border=true&background=0D1117" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nikhil18N&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Nikhil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikhil18N&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🌱 Currently Exploring
-
-- 🧠 Deep Learning architectures (CNNs, Transformers, LSTMs)
-- ⚛️ Advanced React patterns & state management (Redux, Zustand)
-- 🔗 REST APIs & full-stack deployment with Node.js + MongoDB
-- ☁️ Cloud platforms for ML deployment (AWS / GCP)
-
----
-
-## 🤝 Let's Connect & Collaborate!
-
-<div align="center">
-
-I'm always open to interesting conversations, project collaborations, and new opportunities.  
-Whether you want to discuss AI, build something cool, or just say hi — my inbox is open!
-
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge)](https://nikhil-nakka-portfolio.netlify.app/)
-[![Email Me](https://img.shields.io/badge/📫_Email_Me-D14836?style=for-the-badge)](mailto:nikhilnakka52@gmail.com)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil18N&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nikhil18N&label=Profile%20Views&color=blueviolet&style=for-the-badge)
+<img src="https://streak-stats.demolab.com?user=Nikhil18N&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📚 Computer Science Fundamentals
+
+✔ Data Structures & Algorithms
+
+✔ Object Oriented Programming
+
+✔ Operating Systems
+
+✔ Database Management Systems
+
+✔ Computer Networks
+
+✔ System Design Fundamentals
+
+---
+
+# 🏆 Achievements
+
+🥇 Winner – LaunchCode Coding Contest (2024)
+
+🏅 Academic Excellence Award (2×)
+
+☁ AWS Academy Graduate – Cloud Foundations
+
+---
+
+# 🎯 2026 Goals
+
+- Solve 500+ DSA Problems
+- Master System Design
+- Learn Advanced AWS
+- Contribute to Open Source
+- Build Production-Ready SaaS Products
+- Secure a Software Engineering Internship
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:nikhilnakka52@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nikhil-nakka-ba8153295">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Nikhil18N">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -138,8 +190,6 @@ Whether you want to discuss AI, build something cool, or just say hi — my inbo
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" />
-
-*"The goal of AI is not to replace human thinking, but to extend the boundaries of what's possible."*
+### "Building software that solves real-world problems."
 
 </div>
