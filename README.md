@@ -119,12 +119,6 @@ React Native • Node.js • Express • Supabase • PostgreSQL • Gemini AI
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikhil18N&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil18N&layout=compact&theme=tokyonight)
-  
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=Nikhil18N&theme=tokyonight&hide_border=true"/>
 
 </div>
